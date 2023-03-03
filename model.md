@@ -15,7 +15,7 @@ This isnt going to work for all companies but if you have the right group you ca
 - [Business Plan](plan.md)
 - [By Laws](bylaws.md)
 
-### [Articles of Organization]()
+### [Articles of Organization](org-articles.md)
 
 The articles of organization, also known as a certificate of organization, is a legal document that establishes the existence of a limited liability company (LLC). It's typically filed with the state government agency responsible for registering businesses, such as the Secretary of State.
 
@@ -23,7 +23,7 @@ The articles of organization usually include basic information about the LLC, su
 
 In general, the articles of organization serve as the foundational document for the LLC, and they provide important information to the public and to government agencies about the business. In some states, the articles of organization may be required to include additional information, so it's important to consult the relevant state laws and regulations when preparing the document.
 
-### [Partnership Agreement]()
+### [Partnership Agreement](partners.md)
 
 A partnership agreement is a legal document that establishes the terms and conditions for a partnership between two or more individuals or entities. It sets out the rules for how the partners will conduct business together, how profits and losses will be shared, and how the partnership will be managed.
 
@@ -39,7 +39,7 @@ The operating agreement typically includes information about the ownership struc
 
 In general, an operating agreement serves to establish clear expectations and guidelines for the operation of the company and to protect the interests of all parties involved. It's typically a key document for any LLC and is often required by state law.
 
-### [Mission Statement]()
+### [Mission Statement](mission.md)
 
 A mission statement is a brief statement that communicates the purpose and values of an organization. It's typically a concise, one-sentence declaration that summarizes the organization's reason for existence and its core beliefs and principles.
 
@@ -47,7 +47,7 @@ A mission statement is often used as a guiding principle for the organization's 
 
 An effective mission statement is clear, concise, and memorable. It should communicate the organization's goals and values in a way that inspires and motivates its employees, customers, and stakeholders. A well-crafted mission statement can help to establish a strong brand identity and can serve as a rallying cry for the organization's supporters and advocates.
 
-### [Business Plan]()
+### [Business Plan](plan.md)
 
 A business plan is a comprehensive document that outlines the goals, strategies, and operations of a new or existing business. It's typically used to help guide the development and growth of the business, and to secure funding from investors, banks, or other sources.
 
@@ -57,7 +57,7 @@ A well-crafted business plan serves as a roadmap for the business, providing a f
 
 In addition, a business plan can be a valuable tool for communicating the company's vision and goals to employees, customers, and other stakeholders. It can help to establish a sense of focus and purpose for the business, and can provide a benchmark for measuring its success.
 
-### [By Laws]()
+### [By Laws](bylaws.md)
 
 Business bylaws, also known as corporate bylaws, are a set of rules and procedures that govern the internal operations of a corporation. They typically outline the rights and responsibilities of the company's shareholders, directors, and officers, and provide guidelines for how the company will be managed and operated.
 
